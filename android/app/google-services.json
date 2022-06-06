@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809175849633",
+    "project_id": "bpi-examen",
+    "storage_bucket": "bpi-examen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809175849633:android:a794282a9f1b6f331faee0",
+        "android_client_info": {
+          "package_name": "com.example.bpi_examen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809175849633-dv6ci107b764fjgkt2nb026iacu792h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6thyCAfsoOZpd8fZU5fPtLIkMTNR5iH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809175849633-dv6ci107b764fjgkt2nb026iacu792h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
